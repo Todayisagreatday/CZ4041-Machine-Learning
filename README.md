@@ -23,7 +23,7 @@ estimation results.
 <h3>2. Group Project</h3>
 
 The objective of the Kaggle project is to <b>benchmark machine learning models on a challenging large-scale dataset</b> to predict if a transaction made is fraudulent.
-Further details about the challenge can be found here. (https://www.kaggle.com/c/ieee-fraud-detection)
+Further details about the challenge can be found here -> (https://www.kaggle.com/c/ieee-fraud-detection)
 
 <h4>Group Members</h4>
 
