@@ -1,6 +1,6 @@
 # Machine-Learning-CZ4041
 
-<h3>Assignment Objectives</h3>
+<h3>1. Assignment</h3>
 
 The task for the assignment is to <b>implement the non-parametric density estimation method, Naive Estimator</b> using Python.
 The python source file ```naiveEst.py``` will read the data file ```data.txt``` and generate an output file ```output.txt``` with the density 
@@ -20,7 +20,7 @@ estimation results.
 
 ---
 
-<h3>Group Project Objectives</h3>
+<h3>2. Group Project</h3>
 
 The objective of the Kaggle project is to <b>benchmark machine learning models on a challenging large-scale dataset</b> to predict if a transaction made is fraudulent.
 Further details about the challenge can be found here. (https://www.kaggle.com/c/ieee-fraud-detection)
