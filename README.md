@@ -3,8 +3,8 @@
 <h3>1. Assignment</h3>
 
 <h4>Task</h4>
-To implement the non-parametric density estimation method, Naive Estimator using Python. The python source file ```naiveEst.py``` will read the data file ```data.txt``` and generate an output file ```output.txt``` with the density 
-estimation results. 
+To implement the non-parametric density estimation method, Naive Estimator using Python. The python source file ```naiveEst.py``` will read the data file ```data.txt``` and generate an output file ```output.txt``` with the density estimation results.
+
 
 | File       | Description           |
 | :------------- |:-------------|
