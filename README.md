@@ -27,9 +27,9 @@ Further details about the challenge can be found here -> (https://www.kaggle.com
 
 <h4>Group Members</h4>
 
-1. Ngo Jun Hao Jason
-2. Ng Chen Ee Kenneth
-3. Goh Yong Wei
+1. [Ng Chen Ee Kenneth](https://github.com/Todayisagreatday)
+2. [Ngo Jun Hao Jason](https://github.com/NgoJunHaoJason)
+3. [Goh Yong Wei](https://github.com/YongWei12)
 4. Ng Huan Zhang
 
 
