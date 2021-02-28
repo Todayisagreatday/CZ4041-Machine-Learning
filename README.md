@@ -41,6 +41,7 @@ Further details about the challenge can be found here -> (https://www.kaggle.com
 
 - Below shows the meaning of the variables
 - There are a total of 434 columns and 590540 rows in train.csv (combination of train_transaction.csv and train_identity.csv)
+- There are a total of 434 columns and 506691 rows in test.csv (combination of test_transaction.csv and test_identity.csv)
 
 ![Image of variables](https://i.imgur.com/3JoFNI5.jpg)
 
